@@ -1,1 +1,0 @@
-Readme practica 1
