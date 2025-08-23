@@ -3,3 +3,5 @@ En esta practica se tiene como objetivo instalar el lenguaje Haskell y ghc, tamb
 Versiòn de la instalaciòn de ghc:
 ghc --version
 The Glorious Glasgow Haskell Compilation System, version 9.6.7
+
+Sinceramente no hubo ningun problema con el que me haya encontrado a la hora de la instalacion aunque si me tarde un poco a la hora de crear el repositorio (unas 4hrs mas o menos, solo espero que haya estado bien creado)
