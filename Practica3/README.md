@@ -3,7 +3,7 @@
 ## Int:
 Int representa un tipo  concreto de dato que almacena especificamente valores/números de tipo entero
 
-##Num:
+## Num:
 A diferencia de Int, Num puede almacenar cualquier valor de tipo númerico.
 
 Ejemplo:
